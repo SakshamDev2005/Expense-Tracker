@@ -21,8 +21,7 @@ Exit System: Exits the Expense Tracker system
 # Usage
 Clone the Repository:
 
-```
-git clone https://github.com/SakshamDev2005/expense-tracker.git
+```git clone https://github.com/SakshamDev2005/expense-tracker.git
 cd expense-tracker```
 
 Install Dependencies:
