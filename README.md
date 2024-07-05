@@ -32,7 +32,7 @@ Install Dependencies:
 
 Run the Application:
 
-```Execute the Python script expense_tracker.py```
+Execute the Python script ```expense_tracker.py```
 
 # File Structure
 expense_tracker.py: Python script implementing the Expense Tracker functionalities.
