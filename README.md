@@ -23,7 +23,7 @@ Clone the Repository:
 
 ```
 git clone https://github.com/SakshamDev2005/expense-tracker.git
-cd Expense Tracker/exp-tracker
+cd Expense-Tracker/exp-tracker
 ```
 
 Install Dependencies:
