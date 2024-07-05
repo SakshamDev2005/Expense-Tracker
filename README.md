@@ -21,19 +21,19 @@ Exit System: Exits the Expense Tracker system
 # Usage
 Clone the Repository:
 
-bash```
+```
 git clone https://github.com/SakshamDev2005/expense-tracker.git
 cd expense-tracker```
 
 Install Dependencies:
 
-bash```
+```
 Copy code
 pip install pandas openpyxl```
 
 Run the Application:
 
-bash```
+```
 Execute the Python script expense_tracker.py```
 
 # File Structure
