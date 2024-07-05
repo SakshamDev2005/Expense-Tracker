@@ -21,17 +21,27 @@ Exit System: Exits the Expense Tracker system
 # Usage
 Clone the Repository:
 
-bash
-Copy code
+bash```
 git clone https://github.com/SakshamDev2005/expense-tracker.git
-cd expense-tracker
-
+cd expense-tracker```
 
 Install Dependencies:
 
-bash
+bash```
 Copy code
-pip install pandas openpyxl
+pip install pandas openpyxl```
+
 Run the Application:
 
-Execute the Python script expense_tracker.py:
+bash```
+Execute the Python script expense_tracker.py```
+
+# File Structure
+expense_tracker.py: Python script implementing the Expense Tracker functionalities.
+
+exp_page.xlsx: Excel file storing the expense data.
+
+# Note
+Ensure that exp_page.xlsx exists in the same directory as expense_tracker.py before running the application.
+
+Any updates or modifications to the expense data will be reflected directly in exp_page.xlsx.
