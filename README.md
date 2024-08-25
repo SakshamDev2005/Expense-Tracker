@@ -39,7 +39,7 @@ Execute the Python script ```exp_tracker.py```
 
  - exp_page.xlsx: Excel file storing the expense data.
 
-# Note
+# Notes
 Ensure that exp_page.xlsx exists in the same directory as expense_tracker.py before running the application.
 
 Any updates or modifications to the expense data will be reflected directly in exp_page.xlsx.
